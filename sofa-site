@@ -1,0 +1,36 @@
+!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>تنجيد الكنب والركنيات الفخمة</title>
+  <style>
+    body { margin: 0; font-family: sans-serif; background: #faf6f0; color: #333; text-align: center; }
+    header { background: #3b2a20; color: #f5e6c8; padding: 60px 20px; }
+    h1 { margin: 0 0 10px; }
+    section { padding: 40px 20px; }
+    .services { display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; }
+    .card { background: white; padding: 20px; border-radius: 12px; width: 220px; box-shadow: 0 2px 8px #0002; }
+    .btn { display: inline-block; background: #25d366; color: white; padding: 14px 30px; border-radius: 30px; text-decoration: none; font-size: 18px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>تنجيد الكنب والركنيات الفخمة</h1>
+    <p>نحوّل بيتك إلى قطعة فنية بأيدٍ ماهرة</p>
+  </header>
+
+  <section>
+    <h2>خدماتنا</h2>
+    <div class="services">
+      <div class="card">🛋️ تنجيد كنب جديد</div>
+      <div class="card">✨ تجديد الكنب القديم</div>
+      <div class="card">📐 ركنيات حسب الطلب</div>
+    </div>
+  </section>
+
+  <section>
+    <a class="btn" href="https://wa.me/201096949360?text=%D9%85%D8%B1%D8%AD%D8%A8%D8%A7%D9%8B%D8%8C%20%D8%A3%D8%B1%D9%8A%D8%AF%20%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%81%D8%B3%D8%A7%D8%B1%20%D8%B9%D9%86%20%D8%AA%D9%86%D8%AC%D9%8A%D8%AF%20%D9%83%D9%86%D8%A8">تواصل عبر واتساب 💬</a>
+  </section>
+</body>
+</html>
